@@ -124,3 +124,11 @@ Includes:
 * Risk management module
 
 ---
+
+## 📸 Screenshots
+
+### MARKET Order
+![Market Order](image/image1.png)
+
+### LIMIT Order
+![Limit Order](image/image2.png)
